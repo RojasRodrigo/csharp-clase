@@ -11,9 +11,9 @@ Una vez clonado el repositorio, navega a la carpeta del proyecto usando el sigui
 
 cd csharp-clase
 
-3. Compilar el proyecto
+## 3. Compilar el proyecto
 Dentro de la carpeta del proyecto, ejecuta el siguiente comando para compilar el código:
 dotnet build
-4. Ejecutar el proyecto
+## 4. Ejecutar el proyecto
 Después de compilar el proyecto, puedes ejecutarlo con el siguiente comando:
 dotnet run
