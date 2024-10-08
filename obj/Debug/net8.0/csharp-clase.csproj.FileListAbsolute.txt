@@ -1,0 +1,15 @@
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/bin/Debug/net8.0/csharp-clase
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/bin/Debug/net8.0/csharp-clase.deps.json
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/bin/Debug/net8.0/csharp-clase.runtimeconfig.json
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/bin/Debug/net8.0/csharp-clase.dll
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/bin/Debug/net8.0/csharp-clase.pdb
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/csharp-clase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/csharp-clase.AssemblyInfoInputs.cache
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/csharp-clase.AssemblyInfo.cs
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/csharp-clase.csproj.CoreCompileInputs.cache
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/csharp-clase.sourcelink.json
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/csharp-clase.dll
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/refint/csharp-clase.dll
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/csharp-clase.pdb
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/csharp-clase.genruntimeconfig.cache
+/Users/rodrigorojas/Desktop/lenguajes-programacion/csharp-clase/obj/Debug/net8.0/ref/csharp-clase.dll
